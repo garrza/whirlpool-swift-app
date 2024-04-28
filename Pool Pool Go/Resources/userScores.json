@@ -1,0 +1,82 @@
+[
+    {
+        "uid": 2,
+        "name": "John Doe",
+        "email": "john.doe@whirpool.mx",
+        "rol_id": 1,
+        "points": 500,
+        "reports": 2
+    },
+    {
+        "uid": 3,
+        "name": "Jane Smith",
+        "email": "jane.smith@whirpool.mx",
+        "rol_id": 1,
+        "points": 600,
+        "reports": 3
+    },
+    {
+        "uid": 4,
+        "name": "Michael Johnson",
+        "email": "michael.johnson@whirpool.mx",
+        "rol_id": 1,
+        "points": 550,
+        "reports": 1
+    },
+    {
+        "uid": 5,
+        "name": "Emily Brown",
+        "email": "emily.brown@whirpool.mx",
+        "rol_id": 1,
+        "points": 700,
+        "reports": 2
+    },
+    {
+        "uid": 6,
+        "name": "Daniel Martinez",
+        "email": "daniel.martinez@whirpool.mx",
+        "rol_id": 1,
+        "points": 480,
+        "reports": 4
+    },
+    {
+        "uid": 7,
+        "name": "Olivia Williams",
+        "email": "olivia.williams@whirpool.mx",
+        "rol_id": 1,
+        "points": 620,
+        "reports": 2
+    },
+    {
+        "uid": 8,
+        "name": "William Jones",
+        "email": "william.jones@whirpool.mx",
+        "rol_id": 1,
+        "points": 530,
+        "reports": 1
+    },
+    {
+        "uid": 9,
+        "name": "Sophia Davis",
+        "email": "sophia.davis@whirpool.mx",
+        "rol_id": 1,
+        "points": 680,
+        "reports": 3
+    },
+    {
+        "uid": 10,
+        "name": "David Miller",
+        "email": "david.miller@whirpool.mx",
+        "rol_id": 1,
+        "points": 450,
+        "reports": 2
+    },
+    {
+        "uid": 11,
+        "name": "Isabella Garcia",
+        "email": "isabella.garcia@whirpool.mx",
+        "rol_id": 1,
+        "points": 750,
+        "reports": 1
+    }
+]
