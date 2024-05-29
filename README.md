@@ -1,18 +1,20 @@
 # Pool Pool Go iOS App (SwiftUI)
 
 <a name="screenshots"></a>
-<div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
-    <div style="margin: 10px;">
-        <img src="assets/img1.jpeg" alt="Real Time Store Map" style="width: 200px;">
-        <p style="margin-top: 5px;">Real Time Store Map</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="assets/img2.jpeg" alt="Reporting Screen" style="width: 200px;">
-        <p style="margin-top: 5px;">Reporting Screen</p>
-    </div>
-    <div style="margin: 10px;">
-        <img src="assets/img3.jpeg" alt="App Leaderboard" style="width: 200px;">
-        <p style="margin-top: 5px;">App Leaderboard</p>
+<div style="display: flex; justify-content: center;">
+    <div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
+        <div style="margin: 10px;">
+            <img src="assets/img1.jpeg" alt="Real Time Store Map" style="width: 200px;">
+            <p style="margin-top: 5px;">Real Time Store Map</p>
+        </div>
+        <div style="margin: 10px;">
+            <img src="assets/img2.jpeg" alt="Reporting Screen" style="width: 200px;">
+            <p style="margin-top: 5px;">Reporting Screen</p>
+        </div>
+        <div style="margin: 10px;">
+            <img src="assets/img3.jpeg" alt="App Leaderboard" style="width: 200px;">
+            <p style="margin-top: 5px;">App Leaderboard</p>
+        </div>
     </div>
 </div>
 
