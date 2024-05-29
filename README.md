@@ -1,6 +1,20 @@
 # Pool Pool Go iOS App (SwiftUI)
 
-[![PoolPoolGo iOS App Screenshots](assets/img1.jpeg)(assets/img2.jpeg)(assets/img3.jpeg)](#screenshots)
+<a name="screenshots"></a>
+<div style="display: flex; justify-content: space-around; text-align: center;">
+    <div>
+        <img src="assets/img1.jpeg" alt="Real Time Store Map" style="width: 30%;">
+        <p>Real Time Store Map</p>
+    </div>
+    <div>
+        <img src="assets/img2.jpeg" alt="Reporting Screen" style="width: 30%;">
+        <p>Reporting Screen</p>
+    </div>
+    <div>
+        <img src="assets/img3.jpeg" alt="App Leaderboard" style="width: 30%;">
+        <p>App Leaderboard</p>
+    </div>
+</div>
 
 This repository contains the Swift/SwiftUI code for the iOS app component of Pool Pool Go, Whirlpool's anomaly reporting system. The app enables employees to quickly report anomalies from their iPhones and iPads, with data securely stored in an Oracle Cloud SQL database for efficient management via an external admin web dashboard.
 
